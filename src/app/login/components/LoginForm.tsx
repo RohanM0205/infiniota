@@ -174,7 +174,7 @@ const LoginForm = () => {
       {/* Demo Credentials Info */}
       <div className="mt-6 p-4 bg-muted rounded-2xl text-center">
         <p className="text-xs text-muted-foreground">
-          <strong>Demo Credentials:</strong> admin@infiniota.com / admin123
+          <strong>Demo Credentials:</strong> admin@infiniota.com / xxxxxxx
         </p>
       </div>
     </div>
