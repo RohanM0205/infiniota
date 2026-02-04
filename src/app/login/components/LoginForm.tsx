@@ -25,7 +25,7 @@ const LoginForm = () => {
 
     // ✅ TEMP mock credentials (frontend-only)
     const mockEmail = 'admin@infiniota.com';
-    const mockPassword = 'admin123';
+    const mockPassword = 'pkxgEM%@4n6c';
 
     setTimeout(() => {
       if (
